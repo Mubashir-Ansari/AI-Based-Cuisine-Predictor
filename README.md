@@ -1,4 +1,3 @@
-# AI-Based-Cuisine-Predictor
 # Cuisine-Predictor
 An Aritificial Intellience Models used to classify the cuisne for a region, 
 which basically gets set of ingredients and prompt and output as a Cuisine name from all over the globe.
